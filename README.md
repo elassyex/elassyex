@@ -41,4 +41,4 @@ I am a Junior Django Developer with a real passion to make something good in thi
 </p>  
 
 
-***PS: You can see more about me in my simple portofolio above
+***PS: You can see more about me in my simple portofolio above***
