@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Header image](https://i.imgur.com/mYmghyj.png)
-
 ### Hi i'm <a href='https://elassy.up.railway.app' target='_blank'>Elassy</a> a BackEnd Developer!
 
 
