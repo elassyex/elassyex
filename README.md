@@ -34,6 +34,7 @@ I am a Junior Django Developer with a real passion to make something good in thi
   <img src="https://img.shields.io/badge/HTML-5-red?logo=html5">
   <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3">
 </p>  
+
 ### Frameworks and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Django-3.2.4-green?logo=django">
