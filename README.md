@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 👨‍💻 All of my projects are available at [https://elassy.up.railway.app/](https://elassy.up.railway.app/)
+- 👨‍💻 All of my projects are available at [https://elassy.vercel.app/](https://elassy.vercel.app/)
 
 - 📫 How to reach me **mohamedelassy@mail.ru**
 
